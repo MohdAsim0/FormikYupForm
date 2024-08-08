@@ -1,8 +1,10 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Form Validation
 
-Currently, two official plugins are available:
+form validation using formik and yup library .
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Hosted Link 
+- You can view the live demo of the registration form [link](https://formusingformik1.netlify.app/)
+
+## ScreenShot
+![image](./Screenshot%20(325).png)
